@@ -409,13 +409,13 @@ Render **Static Site** hosting the React application.
 Frontend
 
 ```
-[Add deployed frontend link here]
+https://arvyax-ai-journal-system-frontend.onrender.com
 ```
 
 Backend API
 
 ```
-[Add deployed backend link here]
+https://arvyax-ai-journal-system.onrender.com
 ```
 
 ---
